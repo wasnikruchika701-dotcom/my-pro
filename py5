@@ -1,0 +1,7 @@
+# 1. print() function in python
+# a. print() using conacanation method using + symbol
+a = 20
+b = 90
+sum = a + b
+print("sum of 2 numbers =" + str(sum)) # str()converts numeric data to string
+print('A =' + str(a) +' B =' + str(b) + 'sum =' + str(sum))
